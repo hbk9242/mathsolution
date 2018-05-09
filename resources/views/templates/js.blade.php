@@ -1,0 +1,13 @@
+<script src="{{asset('public/assets/js/vendor/jquery.min.js')}}"></script>
+<script src="{{asset('public/assets/js/vendor/bootstrap.min.js')}}"></script>
+<script src="{{asset('public/assets/js/vendor/jquery.counterup.min.js')}}"></script>
+<script src="{{asset('public/assets/js/vendor/parallax.js')}}"></script>
+<script src="{{asset('public/assets/js/vendor/waypoints.min.js')}}"></script>
+<script src="{{asset('public/assets/js/vendor/mislider.js')}}"></script>
+<script src="{{asset('public/assets/js/vendor/owl.carousel.min.js')}}"></script>
+<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDY0kkJiTPVd2U7aTOAwhc9ySH6oHxOIYM"></script>
+<script src="{{asset('public/assets/js/vendor/jquery.devrama.slider.js')}}"></script>
+<script src="{{asset('public/assets/js/vendor/jquery.mobile.custom.min.js')}}"></script>
+<script src="{{asset('public/assets/js/vendor/wow.min.js')}}"></script>
+<script src="{{asset('public/assets/js/vendor/jquery.scrollUp.min.js')}}"></script>
+<script src="{{asset('public/assets/js/script.js')}}"></script>

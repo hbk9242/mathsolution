@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/MathSolutions/app/Message.php</file>
+            <file>file:/C:/xampp/htdocs/MathSolutions/resources/views/includes/slider.blade.php</file>
+            <file>file:/C:/xampp/htdocs/MathSolutions/app/Http/Controllers/Controller.php</file>
+            <file>file:/C:/xampp/htdocs/MathSolutions/resources/views/templates/js.blade.php</file>
+            <file>file:/C:/xampp/htdocs/MathSolutions/routes/api.php</file>
+            <file>file:/C:/xampp/htdocs/MathSolutions/resources/views/home.blade.php</file>
+            <file>file:/C:/xampp/htdocs/MathSolutions/app/User.php</file>
+            <file>file:/C:/xampp/htdocs/MathSolutions/app/StudentPayment.php</file>
+            <file>file:/C:/xampp/htdocs/MathSolutions/app/TeacherBalance.php</file>
+            <file>file:/C:/xampp/htdocs/MathSolutions/resources/views/includes/header.blade.php</file>
+            <file>file:/C:/xampp/htdocs/MathSolutions/app/TeacherProfile.php</file>
+            <file>file:/C:/xampp/htdocs/MathSolutions/resources/views/includes/footer.blade.php</file>
+            <file>file:/C:/xampp/htdocs/MathSolutions/app/StudentQuestionTeacher.php</file>
+            <file>file:/C:/xampp/htdocs/MathSolutions/config/auth.php</file>
+            <file>file:/C:/xampp/htdocs/MathSolutions/app/StudentCourseEnrollment.php</file>
+            <file>file:/C:/xampp/htdocs/MathSolutions/app/Question.php</file>
+            <file>file:/C:/xampp/htdocs/MathSolutions/app/Course.php</file>
+            <file>file:/C:/xampp/htdocs/MathSolutions/app/Category.php</file>
+            <file>file:/C:/xampp/htdocs/MathSolutions/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/MathSolutions/app/Http/Controllers/MathController.php</file>
+            <file>file:/C:/xampp/htdocs/MathSolutions/app/StudentProfile.php</file>
+            <file>file:/C:/xampp/htdocs/MathSolutions/resources/views/layouts/main.blade.php</file>
+            <file>file:/C:/xampp/htdocs/MathSolutions/resources/views/templates/css.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
